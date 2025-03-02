@@ -6,3 +6,7 @@ This folder contains the following materials to support your studies:
 
 - **Study Guide for Week 10 (with solution)**: Covariance and Conditional Distribution.
 
+- **120A Practice Final (with solution)**
+
+- **120A Summary of Joint Distribution**
+
